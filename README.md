@@ -16,16 +16,16 @@ This repository is a log of rooms I’ve completed on [TryHackMe](https://tryhac
 
 ### Pre-Security Path
 - [x] Welcome Room
-- [ ] Intro to Cyber Security
-  - [ ] Offensive Security Intro
-  - [ ] Defensive Security Intro
-  - [ ] Careers in Cyber
-- [ ] Networking Fundamentals
-  - [ ] What is Networking?  
-  - [ ] Intro to LAN  
-  - [ ] OSI Model  
-  - [ ] Packets & Frames  
-  - [ ] Extending Your Network  
+- [x] Intro to Cyber Security
+  - [x] Offensive Security Intro
+  - [x] Defensive Security Intro
+  - [x] Careers in Cyber
+- [x] Networking Fundamentals
+  - [x] What is Networking?  
+  - [x] Intro to LAN  
+  - [x] OSI Model  
+  - [x] Packets & Frames  
+  - [x] Extending Your Network  
 - [ ] How the Web Works  
   - [ ] DNS in Detail  
   - [ ] HTTP in Detail  
@@ -39,7 +39,6 @@ This repository is a log of rooms I’ve completed on [TryHackMe](https://tryhac
   - [ ] Windows Fundamentals 1  
   - [ ] Windows Fundamentals 2  
   - [ ] Windows Fundamentals 3  
-- [ ] Security Principles  
 
 ### Introduction to Cyber Security Path
 - [ ] Cyber Security Introduction  
